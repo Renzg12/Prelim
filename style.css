@@ -10,7 +10,6 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: black;
     animation: change 10s infinite ease-in-out;
 }
 
