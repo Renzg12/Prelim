@@ -52,3 +52,7 @@ td,th{
     height: 80px;
     border-radius: 50%;
 }
+
+.body {
+    text-align: center;
+}
